@@ -1,0 +1,22 @@
+# Node modules directory
+node_modules/
+
+# Build directory
+build/
+
+# Environment variables file
+.env
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Truffle and npm specific files
+.cache/
+.history/
+
+# Excess Folder
+other/
